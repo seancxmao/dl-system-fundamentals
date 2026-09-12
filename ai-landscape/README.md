@@ -105,7 +105,7 @@ AI历史不是背景知识，而是一种判断能力。
 
 《HOMLP》有云：
 
-> Machine learning is the science (and art) of programming computers so they can  learn from data.
+> Machine learning is the science (and art) of programming computers so they can learn from data.
 
 按监督情况分类：
 
@@ -131,9 +131,9 @@ AI历史不是背景知识，而是一种判断能力。
 
 《花书》给出的图：
 
-<img src="images/ai-landscape.png" width="320">
+<img src="images/ai-landscape.png" width="480">
 
-<img src="images/ai-approaches.png" width="320">
+<img src="images/ai-approaches.png" width="480">
 
 DL也被成功应用到RL中：
 
@@ -141,14 +141,16 @@ DL也被成功应用到RL中：
 
 《UDL》很好地说明了DL和ML、RL的关系：
 
-<img src="images/ml-and-dl.png" width="320">
+<img src="images/ml-and-dl.png" width="480">
 
 > Machine learning is an area of artificial intelligence that fits mathematical models to observed data. It can coarsely be divided into supervised learning, unsupervised learning, and reinforcement learning. Deep neural networks contribute to each of these areas.
 
 深度学习曾经受生物学启发，从神经网络这个名字就能看出来。但是因为意识到人类对人类大脑工作机制了解太少，现代深度学习越来越倾向于数学和工程的方法，而不是仿生的方法。神经网络这个名字是历史遗留，现代深度学习跟生物神经网络已经没有多大关系了。
 
 > Today, neuroscience is regarded as an important source of inspiration for deep learning researchers, but it is no longer the predominant guide for the field.
+
 > The main reason for the diminished role of neuroscience in deep learning research today is that we simply do not have enough information about the brain to use it as a guide.
+
 > Modern deep learning draws inspiration from many fields, especially applied math fundamentals like linear algebra, probability, information theory, and numerical optimization.
 
 从思想流派的角度看，符号主义、概率主义、联结主义曾是AI最主要的3个流派。而现代深度学习已经高度融合了各种思想流派，已经很难将DL再按照传统流派进行归类了。现代深度学习的网络结构不仅体现了联结主义，很多地方也融入了概率主义，甚至Reasoning也已经成为LLM的主流能力。
@@ -177,12 +179,15 @@ DL也被成功应用到RL中：
 AI会产生意识吗？
 
 > Despite its name, today’s “artificial intelligence” is more accurately described as “cognitive automation”---the encoding and operationalization of human skills and knowledge. AI excels at solving problems with narrowly defined requirements or those where ample precise examples are available. It’s about enhancing the capabilities of computers, not about replicating human minds. （AI只是认知自动化，而非人类智能）
+
 > To be clear, cognitive automation is incredibly useful. But intelligence—cognitive autonomy—is a different creature altogether. （人类智能是认知自主，完全不同于认知自动化）
+
 > So don’t worry about AI suddenly becoming self-aware and taking over humanity. Today’s technology simply isn’t headed in that direction. Even with significant advancements, AI will remain a sophisticated tool, not a sentient being. It’s like expecting a better clock to lead to time travel—they’re just different things altogether. （AI只是工具）
 
 AI是否有泡沫，寒冬会再来吗？
 
 > My current view is that we’re unlikely to see a full-scale retreat away from AI research like we saw in the 1990s. If there is a winter, it should be very mild. AI has already demonstrated its world-changing value.
+
 > Don’t believe the short-term hype, but do believe in the long-term vision. （不要相信短期炒作，但要相信长期愿景）
 
 莎士比亚说：一切过往，皆为序章。
