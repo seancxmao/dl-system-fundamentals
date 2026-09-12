@@ -8,10 +8,10 @@ AI是一个宏大的领域，我们需要一张地图。
 
 《AIMA》总结了4种实现人工智能的路线，可以看作4种务实的定义。
 
-（1） Acting humanly: The Turing test approach
-（2）Thinking humanly: The cognitive modeling approach
-（3） Thinking rationally: The “laws of thought” approach
-（4） Acting rationally: The rational agent approach
+1. Acting humanly: The Turing test approach
+2. Thinking humanly: The cognitive modeling approach
+3. Thinking rationally: The “laws of thought” approach
+4. Acting rationally: The rational agent approach
 
 图灵测试最容易被普通人所理解。为了通过图灵测试（The Turing test approach），The computer would need the following capabilities:
 
@@ -33,8 +33,7 @@ The rational-agent approach to AI因为更加符合科学精神，所以has prev
 
 从互联网、到移动互联网、云计算、大数据、再到AI。计算机产业，的确是一种流行文化。计算作为一种流行文化，Alan Kay如是说：
 
-> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you’re participating. It has nothing to do with cooperation, the past or the future—it’s living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]. 
-> —Alan Kay, in interview with Dr. Dobb’s Journal (2012)
+> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you’re participating. It has nothing to do with cooperation, the past or the future—it’s living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]. ——Alan Kay, in interview with Dr. Dobb’s Journal (2012)
 
 翻译成中文：计算是一种流行文化。流行文化蔑视历史。流行文化关心的是身份认同，以及让你觉得正在参与其中。它与合作无关，也与过去或未来无关——它只活在当下。我认为，大多数靠写代码谋生的人也是如此。他们根本不知道自己的文化是从哪里来的。
 
