@@ -94,32 +94,29 @@ Google已经从TensorFlow转向JAX。
 
 ## PyTorch
 
-### PyTorch为什么会赢
-
-> PyTorch has gradually taken the lead, owing to its simplicity, flexibility and openness.
-
-有人说，这只是表面原因。深层原因是，技术革命总是由学术界外溢到工业界的，相应的工具也是应先满足学术，再逐渐溢出到工业界。学术到工业的分水岭，不是2012年，也不是2017年，而是2022年。不论对错，这个说法引人深思。
-
-
 ### PyTorch是什么
 
-TODO
+<img src="images/pytorch.png" width="480">
 
 ## References
 
 《DL with Python, 3e》
 
-Deep Learning with Python, Third Edition. Francois Chollet, Matthew Watson. 2025. Francois Chollet是Keras作者。相比《HOMLP》和《MLWP》，这本书最有价值的不是具体技术，而是对AI和DL的深刻洞见。
+Deep Learning with Python, Third Edition. Francois Chollet, Matthew Watson. 2025. Francois Chollet是Keras作者。相比《HOMLP》和《MLP》，这本书最有价值的不是具体技术，而是对AI和DL的深刻洞见。
 
 《HOMLP》
 
 Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems. Aurélien Géron. 2025.
 
-《MLWP》
+《MLP》
 
 Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili. 2022.
 
-《HOMLP》和《MLWP》都是关于ML和DL通识和实战的好书，《HOMLP》比《MLWP》内容更新，可以结合着看。两本书都是一半讲ML，一半讲DL，讲解DL时也捎带讲了LLM。不必从头到尾精读，可以根据需要侧重ML基础、DL基础还是LLM基础有选择地看。
+《HOMLP》和《MLP》都是关于ML和DL通识和实战的好书，《HOMLP》比《MLP》内容更新，可以结合着看。两本书都是一半讲ML，一半讲DL，讲解DL时也捎带讲了LLM。不必从头到尾精读，可以根据需要侧重ML基础、DL基础还是LLM基础有选择地看。
+
+《DLP》
+
+Deep Learning with PyTorch, Second Edition: Training and applying deep learning and generative AI models. Luca Antiga, Eli Stevens, Howard Huang, Thomas Viehmann. 2026.
 
 《花书》
 

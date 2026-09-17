@@ -189,6 +189,8 @@ AI是否有泡沫，寒冬会再来吗？
 
 > Don’t believe the short-term hype, but do believe in the long-term vision. （不要相信短期炒作，但要相信长期愿景）
 
+现状如何，Stanford HAI: AI Index Report，可以作为参考。
+
 莎士比亚说：一切过往，皆为序章。
 
 > What's past is prologue.
@@ -225,7 +227,7 @@ Scaling Laws for Neural Language Models. Jared Kaplan. OpenAI. 2020.
 
 Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems. Aurélien Géron. 2025.
 
-《MLWP》
+《MLP》
 
 Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili. 2022.
 
@@ -248,3 +250,7 @@ Why Machines Learn: The Elegant Math Behind Modern AI. Anil Ananthaswamy. 2024. 
 《DL with Python, 3e》
 
 Deep Learning with Python, Third Edition. Francois Chollet, Matthew Watson. 2025. Francois Chollet是Keras作者。
+
+《Stanford HAI: AI Index Report 2026 — Research and Development》
+
+https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development
