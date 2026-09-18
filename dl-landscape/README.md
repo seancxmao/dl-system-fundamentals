@@ -1,10 +1,10 @@
-# DL Framework
+# Deep Learning Landscape
 
-## DL Overview
+## What is deep learning?
 
 分层表示学习视角，是理解DL最经典、最直观的视角。《DL with Python, 3e》对深度学习有很精辟的解释。
 
-### What is learning?
+### Learning
 
 机器学习模型对数据进行变换，生成更加有用的表示。所谓有用，是使表示更接近期望的输出。
 
@@ -16,7 +16,7 @@
 
 > So that’s what machine learning is, concisely: searching for useful representations and rules over some input data, within a predefined space of possibilities, using guidance from a feedback signal.
 
-### What is deep learning?
+### Deep Learning
 
 深度学习是机器学习的一种，所以深度学习本质上也是在学习表示。深度学习跟浅层学习的区别在于层数不同。浅层学习只学习1到2层，深度学习会学习很多层，数十甚至上百层。所以深度学习又被称为分层表示学习，或者层次表示学习。
 
@@ -26,7 +26,7 @@
 
 > In deep learning, these layered representations are learned via models called neural networks, structured in literal layers stacked on top of each other. The term neural network is a reference to neurobiology, but although some of the central concepts in deep learning were developed in part by drawing inspiration from our understanding of the brain (in particular, the visual cortex), deep learning models are not models of the brain. For our purposes, deep learning is a mathematical framework for learning representations from data.
 
-### How deep learning works?
+## How deep learning works?
 
 用3张图说明深度神经网络是如何工作的。
 
@@ -42,7 +42,7 @@
 
 <img src="images/training.png" width="480">
 
-### 深度学习的数学基础
+## 深度学习的数学基础
 
 深度学习是从数据学习表示的数学框架，其数学基础主要是线性代数、微积分、概率和统计等。
 
@@ -50,7 +50,7 @@
 * 微积分用来训练神经网络
 * 概率和统计，用来处理不确定性和解释数据模式
 
-### 深度学习引发AI革命的特点
+## 深度学习引发AI革命的特点
 
 深度学习之所以能引发AI革命，是因为其具有某些特点。多年以后，我们也许不再使用神经网络，但是那时我们所用的技术将直接继承自现代深度学习及其核心概念。这些特点可以概括为三类：简单、可扩展、通用。
 
@@ -70,7 +70,7 @@
 
 成功的技术有其共性，失败的技术却各有各的问题。
 
-## DL Framework Overview
+## DL Framework
 
 深度学习的发展离不开软件框架的支撑，曾经百花齐放的局面已经渐渐收敛。
 
